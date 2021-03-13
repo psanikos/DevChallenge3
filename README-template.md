@@ -1,11 +1,11 @@
-# Put title of your app here
+# Dev challenge 3
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
 ![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
 
 
-## :scroll: Description
+## :scroll: Jetpack compose challenge
 <!--- Describe your app in one or two sentences -->
 
 
